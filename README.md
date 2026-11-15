@@ -1,7 +1,5 @@
 # Proyecto 13 · Fine-tuning LoRA para seguros de automóvil
 
-**Master AI Engineer · The Power**
-
 ## 1. Descripción del proyecto
 
 En este proyecto aplicamos técnicas de **Fine-tuning con LoRA y QLoRA** para adaptar el comportamiento de un modelo de lenguaje a un caso de uso de atención al cliente de seguros de automóvil.
