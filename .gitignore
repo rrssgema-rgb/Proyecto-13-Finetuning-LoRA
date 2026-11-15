@@ -1,0 +1,21 @@
+
+# Entorno y archivos temporales
+.venv/
+__pycache__/
+*.pyc
+entrenamiento/
+
+# Modelos pesados
+modelo_seguros_fusionado/
+modelo_nexa_fusionado/
+adapter_nexa/
+
+# Material proporcionado por el profesor
+soluciones/
+salidas/
+PROMPTS.md
+08_finetuning.ipynb
+
+# Datos del ejercicio original de Nexa
+datos/nexa_formato.jsonl
+datos/preguntas_prueba.json
