@@ -19,3 +19,5 @@ PROMPTS.md
 # Datos del ejercicio original de Nexa
 datos/nexa_formato.jsonl
 datos/preguntas_prueba.json
+
+prueba_local.py
